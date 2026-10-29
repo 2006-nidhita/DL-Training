@@ -1,4 +1,4 @@
-# Local LLM Chatbot
+# LLM Chatbot
 
 A chatbot built with Python, Streamlit, LangChain,
 Ollama, and Gemma 2B.
