@@ -1,4 +1,4 @@
-# Practical 2: RAG Chatbot with Streamlit, Ollama, and Gemma 2B
+# RAG Chatbot with Streamlit, Ollama, and Gemma 2B
 
 ## Overview
 
