@@ -22,3 +22,5 @@ Download the model:
     python -m streamlit run app.py
 
 Open http://localhost:8501 in your browser.
+
+GitHub: https://github.com/2006-nidhita
