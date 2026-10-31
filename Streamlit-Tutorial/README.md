@@ -22,3 +22,5 @@ python -m pip install -r requirements.txt
 
 Run the application:
 python -m streamlit run app.py
+
+GitHub: https://github.com/2006-nidhita
