@@ -147,7 +147,7 @@ Through this project, I learned:
 
 **Poras**
 
-GitHub: https://github.com/1Poras1
+GitHub: https://github.com/2006-nidhita
 
 ---
 
