@@ -81,3 +81,5 @@ The first run may download the Hugging Face embedding model. Internet access may
 - **Missing Python package:** activate the intended environment and run `pip install -r requirements.txt`.
 - **First launch is slow:** the embedding model may be downloading and the FAISS index is being created.
 - **PowerShell blocks virtual-environment activation:** use the Python environment already configured for your training, or follow your institution's approved PowerShell policy rather than changing security settings blindly.
+
+- GitHub: https://github.com/2006-nidhita
